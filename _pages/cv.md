@@ -11,54 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Business Administration (Finance), McMaster University, 2024 (Expected)
+* M.Sc. in Analytical Finance, University of St. Andrews, 2012
+* B.Econ. in Finance, Jinan University, 2011
+
+Research interest
+======
+* Machine Learning, Risk Management, Investment
+
+Teaching assistance
+======
+* Undergraduate: 2FA3 Introduction to Finance; 4FD3 Financial Institutions; 4FE3 Options and Futures; 4FF3 Portfolio Theory and Risk Management; 4FJ3 Fixed Income Analysis.
+* Master's: MFIN602 Economics of Financial Decisions & Financial Markets; MFIN703 Derivatives; MFIN707 Financial Modeling Using Excel & VBA; MFIN708 Fixed-Income Securities; MFIN710 Financial Theory; MFIN712 Financial Risk Management.
+* MBA: F715 Portfolio Theory and Management; F723 Fixed Income Analysis.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jinrui Futures Co., 2015-2016
+  * Risk Specialist, Risk Management Dept
+* Qianhai Equity Exchange Co., 2013-2014
+  * Product Manager/Risk Manager, Debt Capital Dept
+* Dowin Asset Management Co., Ltd., 2012-2013
+  * Researcher, Risk Management Dept
+* Bank of Montreal (China), 2011
+  * RIntern, Trade Finance Dept
+* Chinalin Securities Co., Ltd., 2010
+  * Intern, Sales Dept
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+
+Honors and awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Finance and Business Economics Area Best Teaching Assistant Award, McMaster University, 2023
+* International Excellence Award, McMaster University, 2017
+* Distinction in Dissertation (Performance of Value-at-Risk during Financial Crisis), University of St. Andrews, 2012
+* The Best Thesis of Undergraduate Innovation Contest (Prospect of Housing Economics in Zhujiang New Town), Jinan University, 2010
+* Merit Student Scholarship, Jinan University, 2009 & 2010
+
+Activities
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* FRM Exam Item Writer, GARP, 2018 & 2019
+* Exchange Student for Cross-Straits Economic Management Seminar, Yuan Ze University (Taiwan), 2010
+
+Miscellaneous
 ======
-* Currently signed in to 43 different slack teams
+* Languages: English, Cantonese (Native), Mandarin
+* Programming Skills: Python, R, MATLAB, Stata, Eviews, VBA
+* Professional Qualifications: CFA, FRM, Intermediate Economist (China), Futures Investment Analyst (China), Qualification Certificate of Banking Professional (China)
