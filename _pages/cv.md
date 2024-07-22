@@ -14,17 +14,17 @@ Education
 * M.Sc. in Analytical Finance, University of St. Andrews, 2012
 * B.Econ. in Finance, Jinan University, 2011
 
-Research interest
+Research Interests
 ======
 * Machine Learning, Risk Management, Investment
 
-Teaching assistance
+Teaching Assistance
 ======
 * Undergraduate: 2FA3 Introduction to Finance; 4FD3 Financial Institutions; 4FE3 Options and Futures; 4FF3 Portfolio Theory and Risk Management; 4FJ3 Fixed Income Analysis.
 * Master's: MFIN602 Economics of Financial Decisions & Financial Markets; MFIN703 Derivatives; MFIN707 Financial Modeling Using Excel & VBA; MFIN708 Fixed-Income Securities; MFIN710 Financial Theory; MFIN712 Financial Risk Management.
 * MBA: F715 Portfolio Theory and Management; F723 Fixed Income Analysis.
 
-Work experience
+Work Experience
 ======
 * Jinrui Futures Co., 2015-2016
   * Risk Specialist, Risk Management Dept
@@ -44,7 +44,7 @@ Publications
   {% endfor %}</ul>
 
 
-Honors and awards
+Honors and Awards
 ======
 * Finance and Business Economics Area Best Teaching Assistant Award, McMaster University, 2023
 * International Excellence Award, McMaster University, 2017
