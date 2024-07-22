@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "A Study on the Relationship among the Leading Actors, Directors, and the Box Office Income of a Film – Based on Multiple Linear Regression Model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/1
+excerpt: #
+date: 2013
+venue: 'Information Management, Innovation Management and Industrial Engineering (ICIII)'
+slidesurl: #
+paperurl: #
+citation: 'Yongbin Yang and Rongzhao Ou, A Study on the Relationship among the Leading Actors, Directors, and the Box Office Income of a Film – Based on Multiple Linear Regression Model, Information Management, Innovation Management and Industrial Engineering (ICIII), 2013, 6(1), 469-471'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper makes a comprehensive and systematic study of the impact of the relationship among the leading actor, director, and the box office income of a film. We give scores according to the awareness and attention of the leading actor and director from a very influential database, and make multiple linear regression using these data. The result shows that the box office income is related to the expertise of the director. The better the director is, the higher the box office income will be. However, the box office income has little relationship with the leading actor. It's an interesting result because usually many persons believe the quality of actors is the biggest factor for the revenue of the film box office. Therefore, to pursuit higher box office income and better awareness, movie companies' administrators should consider on hiring famous directors in the first place.
