@@ -21,7 +21,7 @@ repository               : "ourongzhao/ourongzhao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Rongzhao Ou, CFA, FRM"
   pronouns         : "he/him"  
   bio              : "PhD Candidate"
