@@ -1,11 +1,11 @@
 ---
-title: "Price discovery or overreaction? A study on the reaction of Asia Pacific country ETFs to the US stock market"
+title: "Price Discovery or Overreaction? A Study on the Reaction of Asia Pacific Country ETFs to the US Stock Market"
 collection: publications
 permalink: /publication/3
 date: 2023-06-03
 venue: 'Investment Analysts Journal'
 paperurl: 'https://doi.org/10.1080/10293523.2023.2208904'
-citation: 'Ou, Rongzhao. (2023). &quot;Price discovery or overreaction? A study on the reaction of Asia Pacific country ETFs to the US stock market.&quot; <i>Investment Analysts Journal</i>. 52:4, 349-364.'
+citation: 'Ou, Rongzhao. (2023). &quot;Price Discovery or Overreaction? A Study on the Reaction of Asia Pacific Country ETFs to the US Stock Market.&quot; <i>Investment Analysts Journal</i>. 52:4, 349-364.'
 ---
 
 Abstract: Despite the presence of arbitrage mechanisms, large premiums (or discounts) for Asia Pacific country ETFs in the US market could still exist in the short run due to the time gap between trading hours of the US and Asia Pacific markets. The price of a country ETF is not solely determined by net asset value but is also affected by information released during US trading hours. In this study, I examine six Asia Pacific country ETFs from 2006 to 2020, using linear regression as well as tree-based ensemble methods to predict the next-day return of the net asset value by analysing information from country ETFs and the S&P 500 Index. The results indicate that the trading hours of local markets significantly influence the predictive power of country ETFs and the S&P 500 Index. The findings suggest that the returns of these ETFs do not necessarily overreact to the US market but instead reflect short-term expectations of the performance of underlying indices. Furthermore, I extend the model to analyse overnight and daytime returns and identify the price correction that occurs during daytime trading hours.
