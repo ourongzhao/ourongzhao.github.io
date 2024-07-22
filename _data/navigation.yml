@@ -1,5 +1,8 @@
 # main links links
-main:
+main: 
+  - title: "About"
+    url: /aboutme/
+    
   - title: "Publications"
     url: /publications/
     
