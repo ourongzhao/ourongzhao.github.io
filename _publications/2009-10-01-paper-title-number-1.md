@@ -2,7 +2,7 @@
 title: "A Study on the Relationship among the Leading Actors, Directors, and the Box Office Income of a Film – Based on Multiple Linear Regression Model"
 collection: publications
 permalink: /publication/1
-date: 2013
+date: 2013-11-23
 venue: 'Information Management, Innovation Management and Industrial Engineering (ICIII)'
 citation: 'Yongbin Yang and Rongzhao Ou. (2013) &quot;A Study on the Relationship among the Leading Actors, Directors, and the Box Office Income of a Film – Based on Multiple Linear Regression Model.&quot; <i>Information Management, Innovation Management and Industrial Engineering (ICIII)</i> 6(1), 469-471.'
 ---
