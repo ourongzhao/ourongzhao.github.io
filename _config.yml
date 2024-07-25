@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rongzhao's Home Page"
+title                    : "Rongzhao's Homepage"
 title_separator          : "-"
 name                     : "Rongzhao Ou"
 description              : &description "personal description"
