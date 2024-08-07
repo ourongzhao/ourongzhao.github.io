@@ -54,6 +54,7 @@ Honors and Awards
 
 Activities
 ======
+* ARPM Quant Bootcamper, New York University, 2024
 * FRM Exam Item Writer, GARP, 2018 & 2019
 * Exchange Student for Cross-Straits Economic Management Seminar, Yuan Ze University (Taiwan), 2010
 
