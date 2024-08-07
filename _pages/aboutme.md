@@ -13,4 +13,4 @@ Before embarking on my PhD journey, I worked in the financial industry in China,
 
 I hold an impressive array of qualifications, including CFA, FRM, China Securities Qualification, and China Mid-Class Economist Certificate. These credentials reflect my comprehensive expertise and dedication to the field of finance. Additionally, I am proficient in a suite of analytical tools such as Python, MATLAB, R, Eviews, VBA, and Stata, which are integral to my research and professional activities.
 
-Outside of my professional and academic pursuits, I enjoy staying active through basketball, trekking, swimming, and badminton. I am also an avid listener of jazz and R&B music, which provides a perfect balance to my rigorous academic life.
+Outside of my professional and academic pursuits, I enjoy staying active through basketball, trekking, swimming, and badminton. I am also an avid listener of jazz and R&B music, which provides a perfect balance to my rigorous academic life. Additionally, I had the honor of contributing as an FRM exam item writer, a role that allowed me to further engage with the professional community and contribute to the field's educational standards.
