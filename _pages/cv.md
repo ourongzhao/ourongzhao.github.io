@@ -16,7 +16,7 @@ Education
 
 Research Interests
 ======
-* Machine Learning, Risk Management, Investment
+* Risk Management, Investment, Behavioral Finance, Machine Learning
 
 Teaching Assistance
 ======
@@ -33,9 +33,7 @@ Work Experience
 * Dowin Asset Management Co., Ltd., 2012-2013
   * Researcher, Risk Management Dept
 * Bank of Montreal (China), 2011
-  * RIntern, Trade Finance Dept
-* Chinalin Securities Co., Ltd., 2010
-  * Intern, Sales Dept
+  * Intern, Trade Finance Dept
   
 Publications
 ======
