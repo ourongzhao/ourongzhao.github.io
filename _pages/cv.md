@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Business Administration (Finance), McMaster University, 2024 (Expected)
+* Ph.D in Business Administration (Finance), McMaster University, 2025
 * M.Sc. in Analytical Finance, University of St. Andrews, 2012
 * B.Econ. in Finance, Jinan University, 2011
 
@@ -22,12 +22,12 @@ Teaching Assistance
 ======
 * Undergraduate: 2FA3 Introduction to Finance; 4FD3 Financial Institutions; 4FE3 Options and Futures; 4FF3 Portfolio Theory and Risk Management; 4FJ3 Fixed Income Analysis.
 * Master's: MFIN602 Economics of Financial Decisions & Financial Markets; MFIN703 Derivatives; MFIN707 Financial Modeling Using Excel & VBA; MFIN708 Fixed-Income Securities; MFIN710 Financial Theory; MFIN712 Financial Risk Management.
-* MBA: F715 Portfolio Theory and Management; F723 Fixed Income Analysis.
+* MBA: F715 Portfolio Theory and Management; F723 Fixed Income Analysis; F725 Personal Financial Management.
 
 Work Experience
 ======
 * Jinrui Futures Co., 2015-2016
-  * Risk Specialist, Risk Management Dept
+  * Investment Risk Specialist, Risk Management Dept
 * Qianhai Equity Exchange Co., 2013-2014
   * Product Manager/Risk Manager, Debt Capital Dept
 * Dowin Asset Management Co., Ltd., 2012-2013
@@ -50,6 +50,13 @@ Honors and Awards
 * The Best Thesis of Undergraduate Innovation Contest (Prospect of Housing Economics in Zhujiang New Town), Jinan University, 2010
 * Merit Student Scholarship, Jinan University, 2009 & 2010
 
+Presentations
+======
+* Finance Dissertation Workshop, McMaster University, 2023
+* Finance Dissertation Workshop, McMaster University, 2022
+* Finance PhD and Faculty Retreat, McMaster University, 2022
+* Finance Brown Bag Seminar, McMaster University, 2021
+
 Activities
 ======
 * ARPM Quant Bootcamper, New York University, 2024
@@ -58,6 +65,6 @@ Activities
 
 Miscellaneous
 ======
-* Languages: English, Cantonese (Native), Mandarin
+* Languages: English (Fluent), Cantonese (Native), Mandarin (Native), Japenese (Basic), French (Basic)
 * Programming Skills: Python, R, MATLAB, Stata, Eviews, VBA
 * Professional Qualifications: CFA, FRM, Intermediate Economist (China), Futures Investment Analyst (China), Qualification Certificate of Banking Professional (China)
