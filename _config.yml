@@ -22,8 +22,8 @@ repository               : "ourongzhao/ourongzhao.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Rongzhao Ou, CFA, FRM" 
-  bio              : "PhD Candidate"
+  name             : "Rongzhao Ou, PhD, CFA, FRM" 
+  # bio              : "PhD Candidate"
   location         : "Toronto, Canada"
   employer         : "McMaster University"
   uri              : "ourongzhao.com"
