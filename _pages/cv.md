@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Business Administration (Finance), McMaster University, 2025
-* M.Sc. in Analytical Finance, University of St. Andrews, 2012
+* M.Sc. in Analytical Finance, University of St Andrews, 2012
 * B.Econ. in Finance, Jinan University, 2011
 
 Research Interests
@@ -26,14 +26,16 @@ Teaching Assistance
 
 Work Experience
 ======
-* Jinrui Futures Co., 2015-2016
-  * Investment Risk Specialist, Risk Management Dept
-* Qianhai Equity Exchange Co., 2013-2014
-  * Product Manager/Risk Manager, Debt Capital Dept
+* McMaster University, 2016-2025
+  * Teaching Assistant, DeGroote School of Business
+* Jinrui Futures Co. Ltd., 2015-2016
+  * Investment Risk Specialist, Risk Management Department
+* Qianhai Equity Exchange, 2013-2014
+  * Risk Manager, Debt Capital Dept
 * Dowin Asset Management Co., Ltd., 2012-2013
-  * Researcher, Risk Management Dept
+  * Researcher, Risk Management Department
 * Bank of Montreal (China), 2011
-  * Intern, Trade Finance Dept
+  * Intern, Trade Finance Department
   
 Publications
 ======
@@ -46,7 +48,7 @@ Honors and Awards
 ======
 * Finance and Business Economics Area Best Teaching Assistant Award, McMaster University, 2023
 * International Excellence Award, McMaster University, 2017
-* Distinction in Dissertation (Performance of Value-at-Risk during Financial Crisis), University of St. Andrews, 2012
+* Distinction in Dissertation (Performance of Value-at-Risk during Financial Crisis), University of St Andrews, 2012
 * The Best Thesis of Undergraduate Innovation Contest (Prospect of Housing Economics in Zhujiang New Town), Jinan University, 2010
 * Merit Student Scholarship, Jinan University, 2009 & 2010
 
@@ -59,7 +61,8 @@ Presentations
 
 Activities
 ======
-* ARPM Quant Bootcamper, New York University, 2024
+* ARPM Quant Bootcamp, New York University (Remote), 2024
+* Web-Scraping and Data-Cleaning for Research, Indiana University (Remote), 2021
 * FRM Exam Item Writer, GARP, 2018 & 2019
 * Exchange Student for Cross-Straits Economic Management Seminar, Yuan Ze University (Taiwan), 2010
 
