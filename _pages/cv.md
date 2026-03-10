@@ -31,7 +31,7 @@ Work Experience
 * Jinrui Futures Co. Ltd., 2015-2016
   * Investment Risk Specialist, Risk Management Department
 * Qianhai Equity Exchange, 2013-2014
-  * Risk Manager, Debt Capital Dept
+  * Risk Manager, Debt Capital Department
 * Dowin Asset Management Co., Ltd., 2012-2013
   * Researcher, Risk Management Department
 * Bank of Montreal (China), 2011
