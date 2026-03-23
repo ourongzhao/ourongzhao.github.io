@@ -226,6 +226,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_excerpts: true
   # _pages
   - scope:
       path: ""
